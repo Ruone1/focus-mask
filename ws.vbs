@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "pyw ws.py", 0, True
